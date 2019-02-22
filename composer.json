@@ -25,7 +25,7 @@
         "symfony/symfony": "3.*"
     },
     "autoload":     {
-        "psr-0": { "Slik\\DompdfBundle": "" }
+        "psr-0": { "koenjonker\\DompdfBundle": "" }
     },
-    "target-dir": "Slik/DompdfBundle"
+    "target-dir": "koenjonker/DompdfBundle"
 }
