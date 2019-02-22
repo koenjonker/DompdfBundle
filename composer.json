@@ -1,5 +1,5 @@
 {
-    "name": "koenjonker/dompdfbundle",
+    "name": "koenjonker/DompdfBundle",
     "version": "1.0.0-alpha",
     "description": "A wrapper for using DomPDF inside Symfony 2",
     "keywords": ["symfony", "development", "bundle"],
